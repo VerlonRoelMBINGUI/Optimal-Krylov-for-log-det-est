@@ -26,6 +26,8 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
 - Works with **sparse** matrices (`scipy.sparse`) and supports **matrix-free** `matvec` callables
 - Gershgorin-based spectral interval estimate `[λ_min, λ_max]`
 - PSD-safe shifting:
+- OSA-IOP
+- OSLQ
 
 
 ## Cite our paper
