@@ -32,7 +32,12 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
 
 ## Cite our paper
 
- 
+ @article{mbingui2026optimal,
+  title={Optimal Stochastic Krylov based Techniques for Large-Scale Log-Determinant Estimation},
+  author={Mbingui, Verlon Roel and Tambue, Antoine and Karambal, Issa},
+  journal={arXiv preprint arXiv:2606.07004},
+  year={2026}
+}
 
 ## References 
 [1] Davis, T.A., Hu, Y., 2011. The university of florida sparse matrix collection. ACM Transactions on Mathematical Software (TOMS) 38, 1–25.
