@@ -39,6 +39,8 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
   year={2026}
 }
 <pre> 
+
+  
 ## References 
 [1] Davis, T.A., Hu, Y., 2011. The university of florida sparse matrix collection. ACM Transactions on Mathematical Software (TOMS) 38, 1–25.
 
