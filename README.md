@@ -29,6 +29,16 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
 - OSA-IOP
 - OSLQ
 
+## References
+[1] Davis, T.A., Hu, Y., 2011. The university of florida sparse matrix collection. ACM Transactions on Mathematical Software (TOMS) 38, 1–25.
+
+[2] S. Ubaru, J. Chen, and Y. Saad, Fast estimation of tr(f(a)) via stochastic lanczos quadrature, SIAM Journal on Matrix Analysis and Applications, 38 (2017), pp. 1075–1099.
+
+[3] Z. Han, W. Li, Y. Huang, and S. Zhu, Suboptimal subspace construction for log-determinant approximation, arXiv preprint arXiv:2307.02152, (2023)
+
+[4] S. Gaudreault, M. Tokman, and G. Rainwater, Kiops: A fast adaptive krylov subspace solver for exponential integrators, Journal of Computational Physics, 372 (2018), pp. 236–472.
+
+[5] R. A. Meyer, C. Musco, C. Musco, and D. P. Woodruff, Hutch++: Optimal stochastic trace estimation, in Symposium on Simplicity in Algorithms (SOSA), SIAM, 2021, pp. 142–494
 
 
 
@@ -45,14 +55,4 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
 
   
 
-## References
-[1] Davis, T.A., Hu, Y., 2011. The university of florida sparse matrix collection. ACM Transactions on Mathematical Software (TOMS) 38, 1–25.
-
-[2] S. Ubaru, J. Chen, and Y. Saad, Fast estimation of tr(f(a)) via stochastic lanczos quadrature, SIAM Journal on Matrix Analysis and Applications, 38 (2017), pp. 1075–1099.
-
-[3] Z. Han, W. Li, Y. Huang, and S. Zhu, Suboptimal subspace construction for log-determinant approximation, arXiv preprint arXiv:2307.02152, (2023)
-
-[4] S. Gaudreault, M. Tokman, and G. Rainwater, Kiops: A fast adaptive krylov subspace solver for exponential integrators, Journal of Computational Physics, 372 (2018), pp. 236–472.
-
-[5] R. A. Meyer, C. Musco, C. Musco, and D. P. Woodruff, Hutch++: Optimal stochastic trace estimation, in Symposium on Simplicity in Algorithms (SOSA), SIAM, 2021, pp. 142–494
 
